@@ -4,6 +4,6 @@ Remakes of std containers, these are most likely less optimal then the std conta
 
 
 todo:
-unordered map (currently in progress, priority)
+unordered map (currently in progress; priority)
 ordered map
 ordered set (currently in progress)
